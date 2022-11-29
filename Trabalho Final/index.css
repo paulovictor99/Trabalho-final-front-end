@@ -1,0 +1,33 @@
+body {
+  margin: 10px;
+}
+
+h1{
+  margin-top: 10px;
+  margin-bottom: 20px;
+  background-color: blue;
+  color: white;
+}
+.col-md-4{
+  margin: 5%;
+  padding: 1%;
+}
+.imgj{
+  width: 400px;
+  right: 300px;
+}
+img{
+  width: 100%;
+}
+.card-title {
+  border-bottom: 1px dotted gray;
+}
+
+.row  {
+  margin: 10px;
+}
+.nav-item{
+  margin: 2%;
+  padding: 1%;
+  width: 40%;
+}
